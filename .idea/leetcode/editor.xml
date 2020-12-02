@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[53]最大子序和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[53]最大子序和.java" />
+              <option name="questionId" value="53" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/temp/leetcode/editor/cn/[53]最大子序和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/temp/leetcode/editor/cn/[53]最大子序和.java" />
+              <option name="questionId" value="53" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/ps/8t2v6z057098m418vl5m15dc0000gn/T/leetcode/editor/cn/[53]最大子序和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/ps/8t2v6z057098m418vl5m15dc0000gn/T/leetcode/editor/cn/[53]最大子序和.java" />
+              <option name="questionId" value="53" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
