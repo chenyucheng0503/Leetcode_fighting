@@ -66,7 +66,15 @@
 class Solution {
     public int numDecodings(String s) {
         //特殊情况
-        if (s.charAt(0) == '0') {
+        if(s.length()==0 || s.charAt(0)=='0'
+                || s.contains("00")
+                || s.contains("30")
+                || s.contains("40")
+                || s.contains("50")
+                || s.contains("60")
+                || s.contains("70")
+                || s.contains("80")
+                || s.contains("90")){
             return 0;
         }
 
